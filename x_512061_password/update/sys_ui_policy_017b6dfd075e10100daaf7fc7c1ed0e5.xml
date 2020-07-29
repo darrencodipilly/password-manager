@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_512061_password_password_manager">passwordSAMEASuser_name^ORpasswordSAMEASapplication^EQ<item endquery="false" field="password" goto="false" newquery="false" operator="SAMEAS" or="false" value="user_name"/>
+            <item endquery="false" field="password" goto="false" newquery="false" operator="SAMEAS" or="true" value="application"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>false</on_load>
+        <order>100</order>
+        <reverse_if_false>false</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	alert("Your password is the same as your username or application, consider making it something different.");
+}]]></script_true>
+        <set_values/>
+        <short_description>Checks the strength of your password</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 21:56:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>017b6dfd075e10100daaf7fc7c1ed0e5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Checks the strength of your password</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Password Test" source="x_512061_password">9276cd39071e10100daaf7fc7c1ed0f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Password Test">9276cd39071e10100daaf7fc7c1ed0f8</sys_scope>
+        <sys_update_name>sys_ui_policy_017b6dfd075e10100daaf7fc7c1ed0e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 22:03:42</sys_updated_on>
+        <table>x_512061_password_password_manager</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>
