@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>John Doe</name>
+        <password>MEyi3jQvb+NBIAKSlvpn/Q==</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-30 22:59:30</sys_created_on>
+        <sys_id>37e4cb8e079a50100daaf7fc7c1ed047</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>John Doe</sys_name>
+        <sys_package display_value="Password Test" source="x_512061_password">9276cd39071e10100daaf7fc7c1ed0f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Password Test">9276cd39071e10100daaf7fc7c1ed0f8</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_37e4cb8e079a50100daaf7fc7c1ed047</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-30 22:59:30</sys_updated_on>
+        <username>jdoe</username>
+    </sys_auth_profile_basic>
+</record_update>
