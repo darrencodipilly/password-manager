@@ -4,69 +4,83 @@
             <element>application</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-29 20:57:50</sys_created_on>
-            <sys_id>0d9f5df5075e10100daaf7fc7c1ed0b9</sys_id>
+            <sys_created_on>2020-07-31 01:41:53</sys_created_on>
+            <sys_id>af2aa34a071e50100daaf7fc7c1ed081</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_512061_password_password_manager" sys_domain="global" view="Default view">b6e7cd79071e10100daaf7fc7c1ed09e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-29 20:57:50</sys_updated_on>
+            <sys_updated_on>2020-07-31 01:41:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>password</element>
+            <element>email</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-29 20:57:50</sys_created_on>
-            <sys_id>819f5df5075e10100daaf7fc7c1ed0ba</sys_id>
+            <sys_created_on>2020-07-31 01:41:53</sys_created_on>
+            <sys_id>232aa34a071e50100daaf7fc7c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_512061_password_password_manager" sys_domain="global" view="Default view">b6e7cd79071e10100daaf7fc7c1ed09e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-29 20:57:50</sys_updated_on>
+            <sys_updated_on>2020-07-31 01:41:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>verification</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-31 01:41:53</sys_created_on>
+            <sys_id>a32aa34a071e50100daaf7fc7c1ed082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_512061_password_password_manager" sys_domain="global" view="Default view">b6e7cd79071e10100daaf7fc7c1ed09e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-31 01:41:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-29 20:57:51</sys_created_on>
-            <sys_id>059f5df5075e10100daaf7fc7c1ed0ba</sys_id>
+            <sys_created_on>2020-07-31 01:41:53</sys_created_on>
+            <sys_id>272aa34a071e50100daaf7fc7c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_512061_password_password_manager" sys_domain="global" view="Default view">b6e7cd79071e10100daaf7fc7c1ed09e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-29 20:57:51</sys_updated_on>
+            <sys_updated_on>2020-07-31 01:41:53</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>user_name</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-29 20:57:51</sys_created_on>
-            <sys_id>859f5df5075e10100daaf7fc7c1ed0ba</sys_id>
+            <sys_created_on>2020-07-31 01:41:53</sys_created_on>
+            <sys_id>a72aa34a071e50100daaf7fc7c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_512061_password_password_manager" sys_domain="global" view="Default view">b6e7cd79071e10100daaf7fc7c1ed09e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-29 20:57:51</sys_updated_on>
+            <sys_updated_on>2020-07-31 01:41:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>encrypted_password</element>
-            <position>4</position>
+            <element>password</element>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-30 21:57:28</sys_created_on>
-            <sys_id>c8d67246079a50100daaf7fc7c1ed023</sys_id>
+            <sys_created_on>2020-07-31 01:41:53</sys_created_on>
+            <sys_id>2b2aa34a071e50100daaf7fc7c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_512061_password_password_manager" sys_domain="global" view="Default view">b6e7cd79071e10100daaf7fc7c1ed09e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-30 21:57:28</sys_updated_on>
+            <sys_updated_on>2020-07-31 01:41:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
